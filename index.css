@@ -96,11 +96,17 @@ img
     {
         width: 68%;
         float: right;
+        margin-right: 2%;
     }
 }
 
 @media (max-width: 768px)
 {
+    .content
+    {
+        margin-left: 2%;
+    }
+
     .navigation
     {
         text-align: left;
